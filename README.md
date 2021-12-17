@@ -4,4 +4,4 @@ Datasets for evaluating adversarial robustness with robust Bayes-optimal classif
 Official repository for:
 "A Bayes-Optimal View on Adversarial Examples", Eitan Richardson and Yair Weiss, JMLR (in press).
 
-**⇨ Coming Soon**
+`python generate_dataset.py`
